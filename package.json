@@ -4,8 +4,8 @@
   "description": "Express Hello World",
   "main": "index.js",
   "repository": "",
-  "author": "fscarmen",
-  "license": "MIT",
+  "author": "Misaka-blog",
+  "license": "AGPL-3.0",
   "private": false,
   "scripts": {
     "start": "node index.js"
